@@ -1,0 +1,33 @@
+_repo: Cross-Purposes-and-The-Shadows_18859
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: MacDonald, George
+    birthdate: 1824
+    deathdate: 1905
+    gutenberg_agent_id: '127'
+    url: http://www.gutenberg.org/2009/agents/127
+    wikipedia: http://en.wikipedia.org/wiki/George_MacDonald
+description: This 1862 volume contains two of MacDonald's fairy stories. In the first,
+  the Queen of Fairyland determines to bring two mortals to her realm in order to
+  provide some excitement, and in the second, a mortal, Ralph Rinkelmann, is elected
+  king of the fairies.
+gutenberg_issued: '2006-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18859'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Fairy tales -- Great Britain'
+- !lcc 'PZ'
+- !lcsh 'Fairy tales'
+- !lcsh 'Children''s stories, English'
+title: Cross Purposes and The Shadows
+url: http://www.gutenberg.org/ebooks/18859
